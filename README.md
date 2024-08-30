@@ -1,96 +1,51 @@
-<h2 align="left">Hi 👋! My name is Mohamed Fadel, and I'm a .NET Developer from Egypt</h2>
+<h1 align="center">Hi 👋, I'm Mohamed Fadel Suliman</h1>
+<h3 align="center">Junior BackEnd .NET Developer | Computer Science Student @ South Valley University</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Fadel-10&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Fadel-10" />
+  <img src="https://img.shields.io/github/followers/Mohamed-Fadel-10?label=Followers" alt="Mohamed-Fadel-10" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
 
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Mohamed Fadel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+- :school: I am a `Computer Science student` in the 4th year at South Valley University
+- 🔭 I’m currently working as a Junior BackEnd .NET Developer
+- 🌱 I’m currently focusing on `C#`, `.NET`, and `SQL Server`
+- 📫 How to reach me **fadelmohamed445@gmail.com**
+- :thinking: I’m currently open for new `job opportunities` and exploring `career growth`
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
 
-###
+<br>
 
-<h2 align="left">🌐 Connect with Me</h2>
+## 📩 Connect with me
+<p align="center">
+    <a href="mailto:fadelmohamed445@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/mohamed-fadel-%F0%9F%87%B5%F0%9F%87%B8-533090237/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</p>
 
-###
+## 🛠 Languages and Tools
+<br>
+<p align="center">
+    <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
+    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+    <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+    <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+    <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/mohmed_fadeel?igsh=MWhkZDU2Y2x0eDF6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"  />
-  </a>
-  <a href="mailto:fadelmohamed445@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-fadel-%F0%9F%87%B5%F0%9F%87%B8-533090237/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100021949241623&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook"  />
-  </a>
-  <a href="https://wa.me/201007452672" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp"  />
-  </a>
-</div>
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Fadel-10&theme=tokyonight_duo" alt="Mohamed-Fadel-10" /></p>
+<br/>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Mohamed-Fadel Suliman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamed-Fadel-10" height="230px"/>
+<br/>
 
-###
-
-<h2 align="left">💻 My Skills</h2>
-
-###
-
-<h3 align="left">Programming Languages</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"  />
-</div>
-
-###
-
-<h3 align="left">Software Tools</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="Microsoft SQL Server"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="35" alt="Stack Overflow"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="35" alt="Anaconda"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap"  />
-</div>
-
-###
-
-<h3 align="left">IDEs</h3>
-
-<img align="right" height="150" src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif?cid=790b76112os513alddf7jfpxllwtcdnfkdu1y9gksseyuswh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mohamed-Fadel-10/Mohamed-Fadel-10/output/snake.svg" alt="Snake animation" />
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
