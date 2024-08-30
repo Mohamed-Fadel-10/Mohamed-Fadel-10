@@ -19,10 +19,15 @@
 <br>
 
 ## 📩 Connect with me
+## 📩 Connect with me
 <p align="center">
-    <a href="mailto:fadelmohamed445@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="mailto=fadelmohamed445@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.facebook.com/profile.php?id=100021949241623&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mohamed-fadel-%F0%9F%87%B5%F0%9F%87%B8-533090237/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="https://www.instagram.com/mohmed_fadeel?igsh=MWhkZDU2Y2x0eDF6" title="Instagram"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/></a>
+    <a href="https://wa.me/201007452672" title="WhatsApp"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp"/></a>
 </p>
+
 
 ## 🛠 Languages and Tools
 <br>
