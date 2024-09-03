@@ -11,6 +11,7 @@
 - :school: I am a `Computer Science student` in the 4th year at South Valley University
 - 🔭 I’m currently working as a Junior BackEnd .NET Developer
 - 🌱 I’m currently focusing on `C#`, `.NET`, and `SQL Server`
+- 🌱 I’m currently Learning FrontEnd using Angular 
 - 📫 How to reach me **fadelmohamed445@gmail.com**
 - :thinking: I’m currently open for new `job opportunities` and exploring `career growth`
 - :nerd_face: Always `learning new things`
