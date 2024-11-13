@@ -50,6 +50,7 @@
 
 
 ## 📊 Github Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Fadel-10&theme=tokyonight_duo" alt="Mohamed-Fadel-10" /></p>
 <br/>
 <p align="center">
