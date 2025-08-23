@@ -13,7 +13,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdlMW9yNmFtYWprZm1yMGRicW82aHowNDA1NTR5angxZDA4azhvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="300px"/>
 
 ### 👨‍💻 About Me  
-- 🎓 Final-year **CS Student** @ South Valley University  
+- 🎓 **B.Sc. in Computer Science**, South Valley University 
 - 💼 **Junior Back-End Developer** (C#, .NET, SQL Server)  
 - 🌱 Expanding skills into **Angular & Full-Stack**  
 - 📫 Email: **fadelmohamed445@gmail.com**  
