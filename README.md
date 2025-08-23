@@ -1,63 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fadel Suliman</h1>
-<h3 align="center">Junior BackEnd .NET Developer | Computer Science Student @ South Valley University</h3>
+<!-- HEADER -->
+<h1 align="center">⚡ Mohamed Fadel Suliman ⚡</h1>
+<h3 align="center">💻 .NET Back-End Developer | 🎓 Computer Science Graduate</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Fadel-10&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Fadel-10" />
-  <img src="https://img.shields.io/github/followers/Mohamed-Fadel-10?label=Followers" alt="Mohamed-Fadel-10" />
-</p>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
-
-- :school: I am a `Computer Science student` in the 4th year at South Valley University
-- 🔭 I’m currently working as a Junior BackEnd .NET Developer
-- 🌱 I’m currently focusing on `C#`, `.NET`, and `SQL Server`
-- 🌱 I’m currently Learning FrontEnd using Angular 
-- 📫 How to reach me **fadelmohamed445@gmail.com**
-- :thinking: I’m currently open for new `job opportunities` and exploring `career growth`
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
-
-<br>
-
-## 📩 Connect with me
-<p align="center">
-    <a href="mailto=fadelmohamed445@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.facebook.com/profile.php?id=100021949241623&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamed-fadel-%F0%9F%87%B5%F0%9F%87%B8-533090237/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-    <a href="https://www.instagram.com/mohmed_fadeel?igsh=MWhkZDU2Y2x0eDF6" title="Instagram"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/></a>
-    <a href="https://wa.me/201007452672" title="WhatsApp"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22FF99&center=true&vCenter=true&width=600&lines=.NET+Back-End+Developer;C%23+%7C+SQL+Server+%7C+Entity+Framework;Clean+Code+%7C+APIs+%7C+Databases;Always+Leveling+Up+%F0%9F%94%A5" alt="Typing Animation"/>
 </p>
 
-
-## 🛠 Languages and Tools
-<br>
-
+<!-- BADGES -->
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
-    <a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://img.shields.io/badge/.NET-%23007ACC.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
-    <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-    <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-    <a href="https://docs.microsoft.com/en-us/sql/sql-server/" title="SQL Server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a>
-    <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-    <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Fadel-10&label=Profile+Views&color=22FF99&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mohamed-Fadel-10?label=Followers&style=for-the-badge&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/Status-Graduate-FF007F?style=for-the-badge&logo=graduated&logoColor=white" />
 </p>
 
+---
 
+<!-- ABOUT -->
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280px"/>
 
-## 📊 Github Stats
+## 👨‍💻 About Me
+- 🎓 **B.Sc. in Computer Science**, South Valley University  
+- 💼 **.NET Back-End Developer** (C#, ASP.NET, SQL Server, EF Core)  
+- ⚡ Skilled in building **APIs & Databases** with clean architecture  
+- 🌱 Currently sharpening my **Angular + Full-Stack skills**  
+- 📩 Email: **fadelmohamed445@gmail.com**  
+- 🏆 Vision: To grow into a **Senior Software Engineer & Architect**  
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Fadel-10&theme=tokyonight_duo" alt="Mohamed-Fadel-10" /></p>
-<br/>
+---
+
+## 🌐 Connect With Me
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Mohamed-Fadel Suliman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamed-Fadel-10" height="230px"/>
-<br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <a href="mailto:fadelmohamed445@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-fadel-%F0%9F%87%B5%F0%9F%87%B8-533090237/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="https://wa.me/201007452672"><img src="https://skillicons.dev/icons?i=whatsapp" width="48"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100021949241623"><img src="https://skillicons.dev/icons?i=facebook" width="48"/></a>
+  <a href="https://www.instagram.com/mohmed_fadeel"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 </p>
+
+---
+
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,azure,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=15" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Fadel-10&theme=tokyonight&hide_border=true&border_radius=15" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" height="180px"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Mohamed-Fadel-10/YOUR_PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true&border_radius=15"/>
+  </a>
+  <a href="https://github.com/Mohamed-Fadel-10/YOUR_PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true&border_radius=15"/>
+  </a>
+</p>
+
+---
+
+🔥 *Code is my craft, growth is my fuel.*  
+⭐ From [Mohamed Fadel Suliman](https://github.com/Mohamed-Fadel-10)
