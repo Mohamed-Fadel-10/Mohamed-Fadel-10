@@ -26,6 +26,10 @@
 - 📩 Reach me: **fadelmohamed445@gmail.com**  
 - 🏆 Goal: Becoming a **Senior Software Engineer & Architect**  
 
+
+<br>
+<br>
+
 ---
 
 ## 🌐 Connect With Me
