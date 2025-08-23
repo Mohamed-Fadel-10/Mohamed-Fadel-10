@@ -12,7 +12,7 @@
 <!-- ABOUT -->
 <div align="center">
  <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" 
-     width="230" 
+     width="200" 
      align="right" 
      style="border-radius:20px; margin-left:15px;" />
 </div>
