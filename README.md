@@ -4,13 +4,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=.NET+Back-End+Developer+⚡;C%23+%7C+SQL+Server+%7C+Entity+Framework;Clean+Code+%7C+APIs+%7C+Databases;Building+Future-Ready+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=.NET+Back-End+Developer+⚡;C%23+%7C+SQL+Server+%7C+Entity+Framework;Clean+Code+%7C+APIs+%7C+Databases;Building+Future-Ready+Systems+🚀" />
 </p>
 
 ---
 
 <!-- ABOUT ME -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdlMW9yNmFtYWprZm1yMGRicW82aHowNDA1NTR5angxZDA4azhvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="300px"/>
+<img align="right" src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300px" style="border-radius:20px"/>
 
 ### 👨‍💻 About Me  
 - 🎓 **B.Sc. in Computer Science**, South Valley University 
@@ -41,17 +41,29 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=20" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Fadel-10&theme=tokyonight&hide_border=true&border_radius=20" height="180px"/>
-</p>
+## ⚡ GitHub Stats & Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=20" height="180px"/>
-</p>
+<div align="center">
 
----
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=600&color=6C63FF&center=true&vCenter=true&width=750&lines=⚡+Coding+is+Life;🚀+Keep+Building+Keep+Growing;🔥+Welcome+to+My+GitHub+Stats" />
+
+
+
+<br/>
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=20" height="200"/>
+
+<img src="https://streak-stats.demolab.com?user=Mohamed-Fadel-10&theme=dark&hide_border=true&ring=6C63FF&fire=00F5FF&currStreakLabel=6C63FF&sideNums=00F5FF&dates=cccccc&sideLabels=6C63FF&border_radius=20" height="200"/>
+
+<br/><br/>
+
+<!-- Languages Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=FFFFFF&border_radius=20" height="200"/>
+
+</div>
+
 
 ## 🚀 Featured Projects
 <p align="center">
