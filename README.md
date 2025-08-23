@@ -10,7 +10,6 @@
 ---
 
 <!-- ABOUT -->
-<br>
 <div align="center">
  <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" 
      width="230" 
@@ -28,7 +27,6 @@
 - 🏆 Goal: Becoming a **Senior Software Engineer & Architect**  
 
 
-<br>
 <br>
 
 ---
