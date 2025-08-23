@@ -67,11 +67,11 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/Mohamed-Fadel-10/YOUR_PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true&border_radius=20"/>
+  <a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Optern-BackEnd&theme=tokyonight&hide_border=true&border_radius=20"/>
   </a>
-  <a href="https://github.com/Mohamed-Fadel-10/YOUR_PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true&border_radius=20"/>
+  <a href="https://github.com/Mohamed-Fadel-10/NexaLearn-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=NexaLearn-Platform&theme=tokyonight&hide_border=true&border_radius=20"/>
   </a>
 </p>
 
