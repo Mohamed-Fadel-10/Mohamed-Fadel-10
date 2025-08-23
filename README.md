@@ -9,25 +9,16 @@
 
 ---
 
-<!-- ABOUT -->
-<div align="center">
- <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" 
-     width="200" 
-     align="right" 
-     style="border-radius:20px; margin-left:15px;" />
-</div>
+<!-- ABOUT ME -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdlMW9yNmFtYWprZm1yMGRicW82aHowNDA1NTR5angxZDA4azhvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="300px"/>
 
-
-## 👨‍💻 About Me
-- 🎓 **B.Sc. in Computer Science**, South Valley University  
-- 💼 **.NET Back-End Developer** (C#, ASP.NET, SQL Server, EF Core)  
-- ⚡ Expert in building **Scalable APIs & Databases** with clean architecture  
-- 🚀 Currently learning **Angular + Cloud (Azure)**  
-- 📩 Reach me: **fadelmohamed445@gmail.com**  
-- 🏆 Goal: Becoming a **Senior Software Engineer & Architect**  
-
-
-<br>
+### 👨‍💻 About Me  
+- 🎓 Final-year **CS Student** @ South Valley University  
+- 💼 **Junior Back-End Developer** (C#, .NET, SQL Server)  
+- 🌱 Expanding skills into **Angular & Full-Stack**  
+- 📫 Email: **fadelmohamed445@gmail.com**  
+- 🚀 Always open to **collaboration & job opportunities**  
+- 💡 Motto: *Code. Learn. Improve. Repeat.*  
 
 ---
 
