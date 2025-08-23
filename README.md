@@ -7,7 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=.NET+Back-End+Developer+⚡;C%23+%7C+SQL+Server+%7C+Entity+Framework;Clean+Code+%7C+APIs+%7C+Databases;Building+Future-Ready+Systems+🚀" />
 </p>
 
+<!-- Followers & Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Fadel-10&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Mohamed-Fadel-10?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mohamed-Fadel-10?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
+  </a>
+</p>
+
 ---
+
 
 <!-- ABOUT ME -->
 <img align="right" src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300px" style="border-radius:20px"/>
