@@ -41,7 +41,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,git,github,vscode,html,css,js,bootstrap,angular,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,git,github,vscode,html,css,js,bootstrap,angular,python,django,docker" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="SQL Server"/>
 </p>
 
