@@ -11,8 +11,12 @@
 
 <!-- ABOUT -->
 <div align="center">
-  <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" width="260" align="right" style="border-radius:20px; margin-left:15px;"/>
+ <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" 
+     width="230" 
+     align="right" 
+     style="border-radius:20px; margin-left:15px;" />
 </div>
+
 
 ## 👨‍💻 About Me
 - 🎓 **B.Sc. in Computer Science**, South Valley University  
