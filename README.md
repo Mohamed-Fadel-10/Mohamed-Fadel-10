@@ -2,7 +2,7 @@
 <h1 align="center">⚡ Mohamed Fadel Suliman ⚡</h1>
 <h3 align="center">💻 .NET Back-End Developer | 🎓 Computer Science Graduate</h3>
 
-<!-- Typing Animation -->
+<!-- Typing Animation --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=.NET+Back-End+Developer+⚡;Software+Engineer+💻;C%23+%7C+SQL+Server+%7C+Entity+Framework;Clean+Code+%7C+APIs+%7C+Databases;Building+Future-Ready+Systems+🚀" />
 </p>
