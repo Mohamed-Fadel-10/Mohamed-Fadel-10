@@ -174,7 +174,7 @@
 <br/>
 
 <a href="https://github.com/Mohamed-Fadel-10/LeetCode-Solutions-SqlServer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=LeetCode-Solutions-SqlServer&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+  <img src="https://github.com/Mohamed-Fadel-10/Mohamed-Fadel-10/blob/main/image.png"/>
 </a>
 
 </div>
