@@ -156,14 +156,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Optern-BackEnd&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
 </a>
 &nbsp;
-<a href="https://github.com/Mohamed-Fadel-10/NexaLearn-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=NexaLearn-Platform&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+<a href="https://github.com/Mohamed-Fadel-10/Clean-Architecture-Template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Clean-Architecture-Template&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Mohamed-Fadel-10/Fadel.CleanArchTemplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Fadel.CleanArchTemplate&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+<a href="https://github.com/Mohamed-Fadel-10/LeetCode-Solutions-SqlServer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=LeetCode-Solutions-SqlServer&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
 </a>
 
 </div>
