@@ -40,35 +40,47 @@
 <!--                    ABOUT ME SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 👨‍💻 &nbsp;About Me
-
-```yaml
-name:       Mohamed Fadel Suliman
-role:       Junior Back-End Developer
-education:  B.Sc. Computer Science
-            South Valley University
-focus:      .NET | C# | SQL Server
-learning:   Angular | Full-Stack Dev
-motto:      "Code. Learn. Improve. Repeat."
-status:     Open to opportunities ✅
-```
 
 <br/>
 
-📫 &nbsp;**fadelmohamed445@gmail.com**
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/><br/>
+<b>Education</b><br/>
+<sub>B.Sc. Computer Science<br/>South Valley University</sub>
 </td>
-<td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/><br/>
+<b>Role</b><br/>
+<sub>Junior Back-End Developer<br/>.NET | C# | SQL Server</sub>
 </td>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/48/learning.png" width="40"/><br/>
+<b>Learning</b><br/>
+<sub>Angular<br/>Full-Stack Development</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br/>
+<b>Status</b><br/>
+<sub>Open to Opportunities ✅<br/>fadelmohamed445@gmail.com</sub>
+</td>
+
 </tr>
 </table>
+
+<br/>
+
+> 💡 *"Code. Learn. Improve. Repeat."*
+
+</div>
 
 ---
 
@@ -141,11 +153,17 @@ status:     Open to opportunities ✅
 <div align="center">
 
 <a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Optern-BackEnd&theme=react&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Optern-BackEnd&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
 </a>
 &nbsp;
 <a href="https://github.com/Mohamed-Fadel-10/NexaLearn-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=NexaLearn-Platform&theme=react&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=NexaLearn-Platform&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Mohamed-Fadel-10/Fadel.CleanArchTemplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Fadel.CleanArchTemplate&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
 </a>
 
 </div>
