@@ -8,10 +8,6 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+scalable+.NET+APIs+%F0%9F%9A%80;Clean+Architecture+%7C+CQRS+%7C+DDD+%E2%9A%A1;C%23+%7C+EF+Core+%7C+SQL+Server+%F0%9F%97%84%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
@@ -19,10 +15,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   BADGES ROW                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -49,25 +41,25 @@
 <table>
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="185">
 <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="40"/><br/>
 <b>Education</b><br/>
 <sub>B.Sc. Computer Science<br/>South Valley University</sub>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="185">
 <img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/><br/>
 <b>Role</b><br/>
 <sub>Junior Back-End Developer<br/>.NET | C# | SQL Server</sub>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="185">
 <img src="https://img.icons8.com/fluency/48/learning.png" width="40"/><br/>
 <b>Learning</b><br/>
 <sub>Angular<br/>Full-Stack Development</sub>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="185">
 <img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br/>
 <b>Status</b><br/>
 <sub>Open to Opportunities ✅<br/>fadelmohamed445@gmail.com</sub>
@@ -132,11 +124,18 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0&border_radius=12" height="180"/>
-&nbsp;&nbsp;
+</td>
+<td>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Fadel-10&hide_border=true&ring=00D9FF&fire=a855f7&currStreakLabel=00D9FF&sideNums=e2e8f0&dates=94a3b8&sideLabels=00D9FF&background=0d1117&border_radius=12&stroke=0d1117" height="180"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=e2e8f0&border_radius=12" height="160"/>
 
@@ -152,15 +151,28 @@
 
 <div align="center">
 
-<a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd">
-  <img src="https://private-user-images.githubusercontent.com/108571865/360936699-eb493621-2e25-412a-9b64-d5864b3d5afd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI4NDQ5NTQsIm5iZiI6MTc3Mjg0NDY1NCwicGF0aCI6Ii8xMDg1NzE4NjUvMzYwOTM2Njk5LWViNDkzNjIxLTJlMjUtNDEyYS05YjY0LWQ1ODY0YjNkNWFmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwN1QwMDUwNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZTM0NmQ2YWE0ZmVjMzA1YWQ5ZjgxMGIyZjY5ZDI3NjViYWY3M2I5YTkxNDM5M2RjZTdhMzFiMjNlNWI2YTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gQmAgzMjXBUruem-OlgeghuNT7mDUjsRDK3uWR3qk1k"/>
-</a>
-&nbsp;
-<a href="https://github.com/Mohamed-Fadel-10/Clean-Architecture-Template">
-  <img src="https://github.com/Mohamed-Fadel-10/Mohamed-Fadel-10/blob/main/CleanArchitecture.png"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Optern-BackEnd&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mohamed-Fadel-10/Clean-Architecture-Template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=Clean-Architecture-Template&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Mohamed-Fadel-10/LeetCode-Solutions-SqlServer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Fadel-10&repo=LeetCode-Solutions-SqlServer&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
 </div>
 
 ---
