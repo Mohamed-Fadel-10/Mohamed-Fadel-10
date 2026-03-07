@@ -134,7 +134,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=a855f7&text_color=e2e8f0&border_radius=12" height="180"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Mohamed-Fadel-10&theme=dark&hide_border=true&ring=00D9FF&fire=a855f7&currStreakLabel=00D9FF&sideNums=e2e8f0&dates=94a3b8&sideLabels=00D9FF&background=0d1117&border_radius=12" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Fadel-10&hide_border=true&ring=00D9FF&fire=a855f7&currStreakLabel=00D9FF&sideNums=e2e8f0&dates=94a3b8&sideLabels=00D9FF&background=0d1117&border_radius=12&stroke=0d1117" height="180"/>
 
 <br/><br/>
 
