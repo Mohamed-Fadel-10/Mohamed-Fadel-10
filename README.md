@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Mohamed Fadel Suliman — .NET Back-End Developer" width="100%"/>
+<img src="./hero.svg" alt="Mohamed Fadel Suliman — .NET Back-End Developer" width="100%"/>
 
 <br/>
 
@@ -10,11 +10,11 @@
 
 <br/>
 
-<img src="./assets/terminal.svg" alt="whoami" width="100%"/>
+<img src="./terminal.svg" alt="whoami" width="100%"/>
 
 <br/><br/>
 
-<img src="./assets/architecture.svg" alt="Clean Architecture layers and tech stack" width="100%"/>
+<img src="./architecture.svg" alt="Clean Architecture layers and tech stack" width="100%"/>
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd"><img src="./assets/card-optern.svg" alt="Optern BackEnd" width="400"/></a>
-<a href="https://github.com/Mohamed-Fadel-10/Clean-Architecture-Template"><img src="./assets/card-clean-arch.svg" alt="Clean Architecture Template" width="400"/></a>
-<a href="https://github.com/Mohamed-Fadel-10/LeetCode-Solutions-SqlServer"><img src="./assets/card-sql.svg" alt="LeetCode Solutions SQL Server" width="400"/></a>
+<a href="https://github.com/Mohamed-Fadel-10/Optern-BackEnd"><img src="./card-optern.svg" alt="Optern BackEnd" width="400"/></a>
+<a href="https://github.com/Mohamed-Fadel-10/Clean-Architecture-Template"><img src="./card-clean-arch.svg" alt="Clean Architecture Template" width="400"/></a>
+<a href="https://github.com/Mohamed-Fadel-10/LeetCode-Solutions-SqlServer"><img src="./card-sql.svg" alt="LeetCode Solutions SQL Server" width="400"/></a>
 
 </div>
 
