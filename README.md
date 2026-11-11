@@ -36,13 +36,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Fadel-10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1020&title_color=00D9FF&icon_color=a855f7&text_color=cbd5e1&border_radius=16" height="170" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=Mohamed-Fadel-10&hide_border=true&background=0d1020&ring=00D9FF&fire=ff4d8d&currStreakLabel=00D9FF&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=a855f7&dates=94a3b8&border_radius=16" height="170" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Fadel-10&layout=compact&langs_count=8&hide_border=true&bg_color=0d1020&title_color=00D9FF&text_color=cbd5e1&border_radius=16" height="170" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=Mohamed-Fadel-10&hide_border=true&background=0d1020&ring=00D9FF&fire=ff4d8d&currStreakLabel=00D9FF&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=a855f7&dates=94a3b8&border_radius=16" width="495" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Fadel-10&bg_color=0d1020&color=00D9FF&line=a855f7&point=ffffff&area=true&hide_border=true&radius=16" width="100%" alt="Contribution graph"/>
+<img src="./stats.svg" width="100%" alt="GitHub stats and top languages"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Mohamed-Fadel-10/Mohamed-Fadel-10/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
@@ -60,4 +62,4 @@
 
 </div>
 
-<img src="./assets/footer.svg" alt="Code. Learn. Improve. Repeat." width="100%"/>
+<img src="./footer.svg" alt="Code. Learn. Improve. Repeat." width="100%"/>
